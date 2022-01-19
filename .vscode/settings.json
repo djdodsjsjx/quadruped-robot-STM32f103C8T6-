@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "config.h": "c",
+        "control.h": "c",
+        "servo.h": "c",
+        "gait_task.h": "c",
+        "openmv.h": "c",
+        "cmath": "c",
+        "oled.h": "c",
+        "oled_spi.h": "c",
+        "gait.h": "c"
+    }
+}
